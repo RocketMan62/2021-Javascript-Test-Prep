@@ -1,3 +1,3 @@
-function dissapear(){
-  document.getElementById(elementId:"makeMeDisappear").style.display = "none";
+function hide(){
+  document.getElementById("makeMeDisappear").style.visibility = "hidden";
 }
